@@ -521,3 +521,9 @@ ALTER TABLE ONLY public.star
 -- PostgreSQL database dump complete
 --
 
+-- Sources:
+-- Galaxy Facts: https://space-facts.com/galaxies/
+-- Planetary Fact Sheet: https://nssdc.gsfc.nasa.gov/planetary/factsheet/
+-- Moon Facts: https://solarsystem.nasa.gov/
+--
+
