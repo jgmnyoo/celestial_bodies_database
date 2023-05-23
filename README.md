@@ -1,6 +1,6 @@
 # celestial_bodies_database
 
-Build a Celestial Bodies Relational Database using PostgreSQL - from freeCodeCamp
+Build a Celestial Bodies Relational Database using PostgreSQL - from _freeCodeCamp_
 
 For this project, you need to log in to PostgreSQL with psql to create your database. Make all the tests below pass to complete the project. Be sure to get creative, and have fun! Complete the tasks below.
 
